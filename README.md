@@ -1,2 +1,2 @@
-# pterodactyl-traefik
-An Installation Guide for Pterodactyl Panel + Node behind Traefik Reverse Proxy
+# [UNRAID] Pterodactyl Panel + Node [Traefik Reverse Proxy] Guide
+Coming Soon
